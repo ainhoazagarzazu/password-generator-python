@@ -1,6 +1,9 @@
 #  🔐 Password Generator
-My first Python project.
+This is my first Python project.
 A simple command-line application that generates customizable passwords based on user preferences.
+
+## Screenshot
+![Password Generator](images/password_generator.png)
 
 ## Features
 - Custom password length.
@@ -12,6 +15,9 @@ A simple command-line application that generates customizable passwords based on
 
 ## Technologies
 - Python 3
+
+## Requirements
+- Python 3.10 or later
 
 ## How to run
 ```bash 
@@ -33,6 +39,7 @@ python password_generator.py
 - Refactor the code using functions.
 
 ## Example
+```text
 Length: 12
 Include lowercase: Yes
 Include uppercase: Yes
@@ -40,3 +47,4 @@ Include numbers: Yes
 Include symbols: Yes
 Output:
 A9!dkP3@qLm$
+```
